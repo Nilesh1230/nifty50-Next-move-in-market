@@ -1,0 +1,3 @@
+Model,RMSE,Direction Accuracy
+ARIMA,0.007908,0.5333
+Hybrid (LSTM + HMM),0.010935,0.5009
